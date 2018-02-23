@@ -1,0 +1,11 @@
+c:\users\kn1fe\documents\visual studio 2017\Projects\NextElementsConverter\NextElementsConverter\bin\Debug\NextElementsConverter.exe
+c:\users\kn1fe\documents\visual studio 2017\Projects\NextElementsConverter\NextElementsConverter\bin\Debug\NextElementsConverter.pdb
+c:\users\kn1fe\documents\visual studio 2017\Projects\NextElementsConverter\NextElementsConverter\bin\Debug\MetroFramework.Design.dll
+c:\users\kn1fe\documents\visual studio 2017\Projects\NextElementsConverter\NextElementsConverter\bin\Debug\MetroFramework.dll
+c:\users\kn1fe\documents\visual studio 2017\Projects\NextElementsConverter\NextElementsConverter\bin\Debug\MetroFramework.Fonts.dll
+c:\users\kn1fe\documents\visual studio 2017\Projects\NextElementsConverter\NextElementsConverter\obj\Debug\NextElementsConverter.csprojResolveAssemblyReference.cache
+c:\users\kn1fe\documents\visual studio 2017\Projects\NextElementsConverter\NextElementsConverter\obj\Debug\NextElementsConverter.Properties.Resources.resources
+c:\users\kn1fe\documents\visual studio 2017\Projects\NextElementsConverter\NextElementsConverter\obj\Debug\NextElementsConverter.csproj.GenerateResource.Cache
+c:\users\kn1fe\documents\visual studio 2017\Projects\NextElementsConverter\NextElementsConverter\obj\Debug\NextElementsConverter.exe
+c:\users\kn1fe\documents\visual studio 2017\Projects\NextElementsConverter\NextElementsConverter\obj\Debug\NextElementsConverter.pdb
+c:\users\kn1fe\documents\visual studio 2017\Projects\NextElementsConverter\NextElementsConverter\obj\Debug\NextElementsConverter.MainForm.resources
